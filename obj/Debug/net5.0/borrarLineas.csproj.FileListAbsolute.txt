@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.exe
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.deps.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.runtimeconfig.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.runtimeconfig.dev.json
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\ref\borrarLineas.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\bin\Debug\net5.0\borrarLineas.pdb
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.AssemblyInfo.cs
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\ref\borrarLineas.dll
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.pdb
+C:\Users\andre\Desktop\DAW\programacion\2ªEvaluación\Tema 8\borrarLineas\obj\Debug\net5.0\borrarLineas.genruntimeconfig.cache
